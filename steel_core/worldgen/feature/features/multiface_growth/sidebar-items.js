@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MultifaceSpreadType"],"struct":["MultifaceSpreadPos","ResolvedMultifaceGrowth"],"type":["MultifaceDirections"]};

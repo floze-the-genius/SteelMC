@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TELEPORT_DAMAGE"],"struct":["EnderPearlEntity"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["AGE_PROPERTY","FACING_PROPERTY","MAX_AGE"],"struct":["CocoaBlock"]};

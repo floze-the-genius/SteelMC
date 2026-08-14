@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["EntityAttachment","MobCategory"],"fn":["fallback_point","rotate_attachment_point"],"struct":["EntityAttachmentPoint","EntityAttachments","EntityDimensions","EntityFlags","EntityType","EntityTypeRegistry"],"type":["EntityTypeRef"]};

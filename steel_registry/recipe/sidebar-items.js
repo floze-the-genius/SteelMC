@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CraftingCategory","CraftingRecipe","Ingredient"],"mod":["cooking","crafting","ingredient","registry"],"struct":["CraftingInput","PositionedCraftingInput","RecipeRegistry","RecipeResult","ShapedRecipe","ShapelessRecipe","SmeltingRecipe"]};

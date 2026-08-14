@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ArgumentSuggestionContext","CommandContext","ParseError","ParseResults","ParsedArgument","ParsedArguments","ParsedCommandContext","ParsedCommandNode","SuggestionContext"]};

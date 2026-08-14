@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["experience_orb","item_entity"],"struct":["ExperienceOrbEntity","ItemEntity"]};

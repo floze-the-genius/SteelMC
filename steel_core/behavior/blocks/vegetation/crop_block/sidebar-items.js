@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["AGE_7","MOISTURE"],"fn":["crop_growth_speed","destroy_crop_on_ravager_contact","ravager_breaks_crop"],"struct":["CropBlock"],"trait":["CropLike"]};

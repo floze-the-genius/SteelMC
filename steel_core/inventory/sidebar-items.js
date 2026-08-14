@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["click","container","equipment","lock","menu","prelude","recipe_manager","slots"]};

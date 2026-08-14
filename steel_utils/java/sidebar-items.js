@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["is_blank","is_space_char","is_whitespace"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VANILLA_HORIZONTAL_LIMIT"],"trait":["LevelAccessor","LevelReader","ScheduledTickAccess"]};

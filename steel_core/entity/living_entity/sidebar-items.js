@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["death_loot_items_with_rng","living_entity_loot_ref","shearing_loot_items_with_rng"],"trait":["LivingEntity"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["AGE_15","CACTUS_FLOWER_AGE","FLOWER_CHANCE_SMALL","FLOWER_CHANCE_TALL","MAX_CACTUS_HEIGHT"],"struct":["CactusBlock"]};

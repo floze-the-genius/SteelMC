@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["default_max_chained_neighbor_updates","default_spam_threshold_seconds","validate"],"struct":["ServerConfig","ThreadConfig"]};

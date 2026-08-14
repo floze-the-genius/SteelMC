@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AcceptedClientMovementOutcome"],"fn":["apply_entity_look_at","look_at_rotation","wrap_look_at_degrees"],"struct":["AcceptedClientMovement"],"trait":["Entity","EntityEventSource"]};

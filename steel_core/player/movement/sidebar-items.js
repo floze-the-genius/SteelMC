@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CLAMP_HORIZONTAL","CLAMP_VERTICAL","DEFAULT_GRAVITY","SPEED_THRESHOLD_FLYING","SPEED_THRESHOLD_NORMAL"],"fn":["clamp_horizontal","clamp_vertical","wrap_degrees"],"mod":["input","state","teleport"],"struct":["PlayerFloatingValidation","PlayerInput"]};

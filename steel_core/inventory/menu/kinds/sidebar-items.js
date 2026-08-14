@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INVENTORY_MENU_CONTAINER_ID"],"fn":["anvil","chest","crafting","inventory_menu"],"mod":["anvil_menu","basic_menu","chest_menu","crafting_menu","inventory_menu"],"struct":["AnvilKind","BasicKind","ChestKind","CraftingKind","InventoryKind"]};

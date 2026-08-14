@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ItemUseAnimation"],"struct":["ItemBehaviorRegistry"],"trait":["ItemBehavior"]};

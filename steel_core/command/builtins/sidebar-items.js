@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_registered_dispatcher"],"mod":["clear","damage","difficulty","domain","enchant","execute","experience","fly","gamemode","gamerule","give","invsee","kill","list","locate","operator","perms","return_command","seed","setblock","setworldspawn","stop","summon","teleport","tellraw","tick","time","weather"]};

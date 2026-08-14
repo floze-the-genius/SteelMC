@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["command","missing_argument","registration","set_spawn","spawnable_position"]};

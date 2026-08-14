@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BlockPredicate"],"fn":["dynamic_error","identifier_matches","parse_block_predicate","parse_concrete_block_predicate","parse_optional_nbt","parse_properties","parse_tag_predicate","state_properties_match","suggest_blocks"],"type":["BlockProperties"]};

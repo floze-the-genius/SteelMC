@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ender_pearl","firework_rocket"],"struct":["EnderPearlEntity","FireworkRocketEntity"]};
